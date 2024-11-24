@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3B4D6-D316-47DE-ABB9-373DD6B9BEC1}|..\\CRUD.web\\CRUD.web.csproj|c:\\users\\administrador\\source\\repos\\crud.web\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3B4D6-D316-47DE-ABB9-373DD6B9BEC1}|..\\CRUD.web\\CRUD.web.csproj|c:\\users\\administrador\\source\\repos\\crud.web\\views\\people\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3B4D6-D316-47DE-ABB9-373DD6B9BEC1}|..\\CRUD.web\\CRUD.web.csproj|c:\\users\\administrador\\source\\repos\\crud.web\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3B4D6-D316-47DE-ABB9-373DD6B9BEC1}|..\\CRUD.web\\CRUD.web.csproj|c:\\users\\administrador\\source\\repos\\crud.web\\views\\people\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3B4D6-D316-47DE-ABB9-373DD6B9BEC1}|..\\CRUD.web\\CRUD.web.csproj|c:\\users\\administrador\\source\\repos\\crud.web\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424CCD67-6354-49A2-A0C0-ACEE9C748140}|..\\CRUD.domain\\CRUD.domain.csproj|c:\\users\\administrador\\source\\repos\\crud.domain\\dtos\\putpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\CRUD.web\\Views\\People\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\CRUD.web\\Views\\People\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\CRUD.web\\Views\\People\\Delete.cshtml",
+              "RelativeToolTip": "..\\CRUD.web\\Views\\People\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T22:16:40.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\CRUD.web\\Views\\People\\Update.cshtml",
+              "RelativeDocumentMoniker": "..\\CRUD.web\\Views\\People\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\CRUD.web\\Views\\People\\Update.cshtml",
+              "RelativeToolTip": "..\\CRUD.web\\Views\\People\\Update.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T21:59:50.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PutPeople.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\CRUD.domain\\DTOS\\PutPeople.cs",
+              "RelativeDocumentMoniker": "..\\CRUD.domain\\DTOS\\PutPeople.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\CRUD.domain\\DTOS\\PutPeople.cs",
+              "RelativeToolTip": "..\\CRUD.domain\\DTOS\\PutPeople.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:57:24.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\CRUD.web\\Views\\People\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\CRUD.web\\Views\\People\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\CRUD.web\\Views\\People\\Create.cshtml",
+              "RelativeToolTip": "..\\CRUD.web\\Views\\People\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T21:39:49.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\CRUD.web\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\CRUD.web\\Views\\People\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\CRUD.web\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "..\\CRUD.web\\Views\\People\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T21:29:15.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\CRUD.web\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "..\\CRUD.web\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\CRUD.web\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "..\\CRUD.web\\Controllers\\PeopleController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAgwGkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:23:26.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD.api", "CRUD.api.csproj", "{F96685DF-3720-47E3-B3B0-17909CF32C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD.domain", "..\CRUD.domain\CRUD.domain.csproj", "{424CCD67-6354-49A2-A0C0-ACEE9C748140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD.web", "..\CRUD.web\CRUD.web.csproj", "{BBA3B4D6-D316-47DE-ABB9-373DD6B9BEC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96685DF-3720-47E3-B3B0-17909CF32C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96685DF-3720-47E3-B3B0-17909CF32C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96685DF-3720-47E3-B3B0-17909CF32C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96685DF-3720-47E3-B3B0-17909CF32C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424CCD67-6354-49A2-A0C0-ACEE9C748140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424CCD67-6354-49A2-A0C0-ACEE9C748140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424CCD67-6354-49A2-A0C0-ACEE9C748140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424CCD67-6354-49A2-A0C0-ACEE9C748140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA3B4D6-D316-47DE-ABB9-373DD6B9BEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA3B4D6-D316-47DE-ABB9-373DD6B9BEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA3B4D6-D316-47DE-ABB9-373DD6B9BEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA3B4D6-D316-47DE-ABB9-373DD6B9BEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2A97EE-0442-4D34-9A6B-58A36A242657}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,47 @@
+﻿@using CRUD.domain.DTOS
+@model List<GetPeople>
+
+<h2>Listado de Personas</h2>
+
+@if (ViewBag.ErrorMessage != null)
+{
+	<div class="alert alert-danger">
+		@ViewBag.ErrorMessage
+	</div>
+}
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Nombre</th>
+			<th>Edad</th>
+			<th>Opciones</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var person in Model)
+		{
+			<tr>
+				<td>@person.id</td>
+				<td>@person.name</td>
+				<td>@person.age</td>
+				<td>
+					<a asp-controller="People"
+					   asp-action="Update"
+					   asp-route-id="@person.id"
+					   class="btn btn-success me-2">Editar</a>
+
+
+					<form asp-action="Delete" asp-route-id="@person.id" method="post" style="display:inline;"
+						  onsubmit="return confirm('¿Estás seguro de que deseas eliminar a esta persona?');">
+						<button type="submit" class="btn btn-danger">Eliminar</button>
+					</form>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+<a asp-controller="People" asp-action="Create" class="btn btn-primary">Agregar Persona</a>
+
