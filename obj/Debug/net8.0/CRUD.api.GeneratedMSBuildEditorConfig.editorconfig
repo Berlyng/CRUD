@@ -17,3 +17,47 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\Administrador\source\repos\CRUD
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/People/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcUGVvcGxlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/People/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcUGVvcGxlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/People/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcUGVvcGxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/People/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcUGVvcGxlXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/source/repos/CRUD/CRUD.web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRC53ZWJcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gm9fkeaj5a
